@@ -5,4 +5,4 @@ Book Search Added
 Book Categories Added 
 Book Reviews Added
 Dark Theme
-
+Performance Improvements
