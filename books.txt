@@ -6,3 +6,4 @@ Book Categories Added
 Book Reviews Added
 Dark Theme
 Performance Improvements
+Export to PDF
